@@ -1,6 +1,7 @@
 # Fake Store Dashboard - React + JWT + Material UI
 
 Este projeto é um painel de produtos integrando com a [Fake Store API](https://fakestoreapi.com/), utilizando:
+(Projeto acadêmico desenvolvido em aula.Código base disponibilizado pelo professor e adaptado para fins de estudo)
 
 - React + Vite + TypeScript
 - Material UI (MUI) para o design
